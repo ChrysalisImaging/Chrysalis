@@ -1,6 +1,6 @@
 # Welcome to the Chrysalis Software Page
 
-Chrysalis has been developed at the University of Minnesota by Dmitri Kotov (kotov003@umn.edu) in Marc Jenkins' laboratory in collaboration with Thomas Pengo at the University of Minnesota University Imaging Center. 
+Chrysalis has been developed at the University of Minnesota by Dmitri Kotov (kotov003@umn.edu) in Marc Jenkins' laboratory in collaboration with Thomas Pengo of the University of Minnesota University Imaging Center. 
 
 Chrysalis processes static images (4D images), like those acquired on confocal or epifluorescent microscopes, as well as 2-photon movies (5D images) to prepare the images for further analysis in Imaris or ImageJ. 
 
