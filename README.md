@@ -4,7 +4,6 @@ Chrysalis has been developed at the University of Minnesota by Dmitri Kotov (kot
 
 Chrysalis processes static images (4D images), like those acquired on confocal or epifluorescent microscopes, as well as 2-photon movies (5D images) to prepare the images for further analysis in Imaris or ImageJ. 
 
-The compiled version of Chrysalis can be run in Windows or Mac OSX while the non-compiled code can be run in Matlab. 
 
 ### Features
 
@@ -19,9 +18,12 @@ The compiled version of Chrysalis can be run in Windows or Mac OSX while the non
 
 More detailed explanations of each feature described here as well as additional features can be found in the Chrysalis documentation.docx file at the Chrysalis github site.
 
+
 ### How to Run Chrysalis
  
-This information is described in detail in the Chrysalis documentation.docx file at the Chrysalis github site.
+The compiled version of Chrysalis can be run in Windows or Mac OSX while the non-compiled code can be run and edited in Matlab. 
+
+See the Chrysalis documentation.docx file at the Chrysalis github site for more details.
 
 ### More Information about Chrysalis
 
