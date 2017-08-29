@@ -13,7 +13,7 @@ Chrysalis processes static images (4D images), like those acquired on confocal o
 
 * *Save movie as AVI file*: This feature is great for quickly looking over movies to determine which movies have healthy tissue and are worth analyzing further.
 
-* Static images (4D images) can use the *Merge all images in each file* feature to combine multiple images from a single tissue into one large image, thereby allowing for simulatenous analysis.
+* *Merge all images in each file*: Static images (4D images) can use this feature to combine multiple images from a single tissue into one large image, thereby allowing for simulatenous analysis.
 
 
 More detailed explanations of each feature described here as well as additional features can be found in the Chrysalis documentation.docx file at the Chrysalis github site.
@@ -24,6 +24,7 @@ More detailed explanations of each feature described here as well as additional 
 The compiled version of Chrysalis can be run in Windows or Mac OSX while the non-compiled code can be run and edited in Matlab. 
 
 See the Chrysalis documentation.docx file at the Chrysalis github site for more details.
+
 
 ### More Information about Chrysalis
 
