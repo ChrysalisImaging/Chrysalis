@@ -1,11 +1,13 @@
 # Welcome to the Chrysalis Software Page
 
+
 Chrysalis has been developed at the University of Minnesota by Dmitri Kotov (kotov003@umn.edu) in Marc Jenkins' laboratory in collaboration with Thomas Pengo of the University of Minnesota University Imaging Center. 
 
 Chrysalis processes static images (4D images), like those acquired on confocal or epifluorescent microscopes, as well as 2-photon movies (5D images) to prepare the images for further analysis in Imaris or ImageJ. 
 
 
 ### Features
+
 
 * *Spectral Unmixing*: This feature applies linear unmixing to the image based on a user defined "compensation matrix".
 
@@ -16,10 +18,12 @@ Chrysalis processes static images (4D images), like those acquired on confocal o
 * *Merge all images in each file*: Static images (4D images) can use this feature to combine multiple images from a single tissue into one large image, thereby allowing for simulatenous analysis.
 
 
+
 More detailed explanations of each feature described here as well as additional features can be found in the Chrysalis documentation.docx file at the Chrysalis github site.
 
 
 ### How to Run Chrysalis
+ 
  
 The compiled version of Chrysalis can be run in Windows or Mac OSX while the non-compiled code can be run and edited in Matlab. 
 
@@ -27,6 +31,7 @@ See the Chrysalis documentation.docx file at the Chrysalis github site for more 
 
 
 ### More Information about Chrysalis
+
 
 For detailed information about Chrysalis, please refer to our recent publication in **Blank** journal (insert link).
 
