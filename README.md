@@ -19,7 +19,7 @@ Chrysalis processes static images (4D images), like those acquired on confocal o
 
 
 
-More detailed explanations of each feature described here as well as additional features can be found in the Chrysalis documentation.docx file at the Chrysalis github site.
+More detailed explanations of each feature described here as well as additional features can be found in the Chrysalis documentation.docx file at the [Chrysalis github site](https://github.com/ChrysalisImaging/Chrysalis).
 
 
 ### How to Run Chrysalis
@@ -27,7 +27,7 @@ More detailed explanations of each feature described here as well as additional 
  
 The compiled version of Chrysalis can be run in Windows or Mac OSX while the non-compiled code can be run and edited in Matlab. 
 
-See the Chrysalis documentation.docx file at the Chrysalis github site for more details.
+See the Chrysalis documentation.docx file at the  [Chrysalis github site](https://github.com/ChrysalisImaging/Chrysalis) for more details.
 
 
 ### More Information about Chrysalis
