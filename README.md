@@ -3,8 +3,9 @@
 
 Chrysalis has been developed at the University of Minnesota by Dmitri Kotov (kotov003@umn.edu) in Marc Jenkins' laboratory in collaboration with Thomas Pengo of the University of Minnesota University Imaging Center. 
 
-Chrysalis processes static images (4D images), like those acquired on confocal or epifluorescent microscopes, as well as 2-photon movies (5D images) to prepare the images for further analysis in Imaris or ImageJ. 
+Chrysalis processes 2D and 3D images, like those acquired on confocal or epifluorescent microscopes, as well as 2-photon movies (3D images + time) to prepare the images for further analysis in Imaris or ImageJ. 
 
+Additionally, we have created the GenerateCompensationMatrix script. This script is run in Fiji and used with single color control images to generate a compensation matrix. This compensation matrix can then be used by Chrysalis to spectrally unmix images.
 
 ### Features
 
@@ -15,7 +16,7 @@ Chrysalis processes static images (4D images), like those acquired on confocal o
 
 * *Save movie as AVI file*: This feature is great for quickly looking over movies to determine which movies have healthy tissue and are worth analyzing further.
 
-* *Merge all images in each file*: Static images (4D images) can use this feature to combine multiple images from a single tissue into one large image, thereby allowing for simulatenous analysis.
+* *Merge all images in each file*: Static images (2D and 3D images) can use this feature to combine multiple images from a single tissue into one large image, thereby allowing for simulatenous analysis.
 
 
 
