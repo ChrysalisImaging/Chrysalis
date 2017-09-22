@@ -846,7 +846,7 @@ if MovieBox==1
                         scaleFactor(ich) = 256*256/max(final_c(:));
                         final(:,:,:,:,ich) = scaleFactor(ich) * final_c;
                     end
-                    writetable(table(scaleFactor),[outFilename '.scaleFactors.txt']);
+                    writetable(table(scaleFactor),[rawDataFilename(1:end-extension_length) '.scaleFactors.txt']);
                 end
 
                 writeBigDataXML(fullfile(outdir,total_name),uint16(final),'XYZTC','DeflateLevel',3);
